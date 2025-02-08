@@ -3,3 +3,4 @@ Belajar Repo
 - pembuatan web
 - untuk database
 - pembelajaran
+- dekoding
