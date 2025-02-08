@@ -3,3 +3,4 @@ machine learning
   - yt
   - decoding
   - Git
+  - python
