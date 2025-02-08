@@ -2,5 +2,5 @@ machine learning
   - belajar
   - yt
   - decoding
-  - Git
+  - git
   - python
