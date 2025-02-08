@@ -1,3 +1,5 @@
 Belajar Repo
 - untuk Machine learning
 - pembuatan web
+- untuk database
+- untuk iklan
